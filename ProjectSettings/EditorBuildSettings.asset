@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project/Scenes/Main/Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Project/Scenes/SettingsPopup/SettingsPopup.unity
+    guid: ced5df065ee8dc740a35c5891aa86fcb
+  - enabled: 1
+    path: Assets/ThirdParties/SS/View/Demo/Scenes/Loading/DLoading.unity
+    guid: 25f342e2e2656462992f0a79298b6b1c
+  - enabled: 1
+    path: Assets/ThirdParties/SS/View/Demo/Scenes/Game/DGame.unity
+    guid: 9761bb7ca9fbb42889fd55b2d3fc28d1
+  - enabled: 1
+    path: Assets/ThirdParties/SS/View/Demo/Scenes/Main/DMain.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/ThirdParties/SS/View/Demo/Scenes/Popup/DPopup.unity
+    guid: 46411c47c24404545aea993c486be51b
+  - enabled: 1
+    path: Assets/ThirdParties/SS/View/Demo/Scenes/Select/DSelect.unity
+    guid: e63256b2e0e154a8ba28cf67546532ca
+  - enabled: 1
+    path: Assets/ThirdParties/SS/View/Demo/Scenes/Top/DTop.unity
+    guid: 014247655ec5f4ebdbe375f00e5821f4
+  - enabled: 1
+    path: Assets/Project/Scenes/Home/Home.unity
+    guid: 121a058e1927dd94097659a33c80a08f
+  - enabled: 1
+    path: Assets/Project/Scenes/Game/Game.unity
+    guid: f5e17612406d4584aa8e24c6db9f2d5c
+  - enabled: 1
+    path: Assets/Project/Scenes/PausePopup/PausePopup.unity
+    guid: d70cdc6f08151504d9028997f792e1f5
+  - enabled: 1
+    path: Assets/Project/Scenes/SelectLevel/SelectLevel.unity
+    guid: f2cbda68e7ffa864ca15936e4861ccd5
+  - enabled: 1
+    path: Assets/Project/Scenes/VotePopup/VotePopup.unity
+    guid: f2eede3e562cb4a43bee8c16d81d3bf5
+  - enabled: 1
+    path: Assets/Project/Scenes/ScorePopup/ScorePopup.unity
+    guid: 71417b8cd2432c348a28c458f69c0dd7
+  m_configObjects: {}

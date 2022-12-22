@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ed8c0d1c9286edb46844f7724c1103ca
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SVN-Freude
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 84f6765a95e024346b16e8246ca8f09b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
